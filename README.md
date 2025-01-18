@@ -21,7 +21,7 @@
 - [7] JWT
 - [8] IDOR
 - [9] XXE
-- [10] XSS
+- [10] XSSll
 - [11] Бонусное задание — генерация Debugger PIN (при создании вдохновлялись исследованем [SidneyJob](https://t.me/SidneyJobChannel), опубликованным на [Habr](https://habr.com/ru/articles/738238/))
 
 
